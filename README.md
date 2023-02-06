@@ -1,2 +1,2 @@
-# deepGraphNN
-My-Deep-Graph-NN-Learning-Roadmap
+My Graph Neural Network Learning Roadmap
+
